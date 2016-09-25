@@ -1,0 +1,13 @@
+> En formulario Alta_Pacientes.php:
+En la siguiente línea reemplazar por link definitivo cuando esté funcionando el Servidor:
+$link = "www.turnosweb.com";   
+
+
+> Para pàgina de inicio usar este código en form_admin.html:
+      <div class="jumbotron">
+        <h1>Navbar example</h1>
+        <p>This example is a quick exercise to illustrate how the default, static navbar and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="http://getbootstrap.com/components/#navbar" role="button">View navbar docs »</a>
+        </p>
+      </div>
